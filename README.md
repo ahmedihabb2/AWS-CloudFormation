@@ -1,6 +1,7 @@
 ### Deploy a high-availability web app using CloudFormation
 
 
+![Udagram](https://user-images.githubusercontent.com/57008633/166841484-ce2dd015-2bda-46b0-bc1d-cbc9c271746d.png)
 
 ### How to run ?
 
