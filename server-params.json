@@ -1,0 +1,10 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "Udagram-Prod"
+	},
+	{
+		"ParameterKey": "ImageID",
+		"ParameterValue": "ami-0ac73f33a1888c64a"
+	}
+]
